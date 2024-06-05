@@ -1,0 +1,43 @@
+.paperSize {
+    height: 3508px;
+    width: 2408px;
+    margin: auto;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: row;
+}
+.leftSide {
+    height: 3508px;
+    width: 20%;
+    background-color: darkblue;
+
+}
+.rightSide {
+    height: 3508px;
+    width: 80%;
+    background-color: antiquewhite;
+}
+.image {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.profile {
+    width: 80%;
+    margin: auto;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.exp {
+    text-transform: uppercase;
+}
+.oderList{
+    list-style-type: none;
+    left: 0px;
+}
+.experience{
+    width: 80%;
+    margin: auto;
+}
